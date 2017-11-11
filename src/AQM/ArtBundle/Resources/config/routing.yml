@@ -1,0 +1,3 @@
+aqm_art_homepage:
+    path:     /
+    defaults: { _controller: AQMArtBundle:Default:index }
